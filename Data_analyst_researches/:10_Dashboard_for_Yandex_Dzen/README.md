@@ -1,6 +1,6 @@
 # Дашборд для Яндекс.Дзен
 
-*В .pdf файле хранится презентация с ответом на вопросы заказчика и ссылкой на дашборд, выставленный в открытом доступе.*
+*В .pdf файле представлена презентация с ответом на вопросы заказчика и ссылкой на дашборд, выставленный в открытом доступе.*
 
 <h1>Содержание<span class="tocSkip"></span></h1>
 <div class="toc"><ul class="toc-item"><li><span><a href="#Описание" data-toc-modified-id="Описание-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Описание</a></span></li><li><span><a href="#Цель-и-задачи:" data-toc-modified-id="Цель-и-задачи:-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>Цель и задачи:</a></span></li></ul></div>
